@@ -230,7 +230,7 @@ import { Button } from "@/components/ui/button"
 
 All color combinations meet **WCAG AA** contrast requirements. Most meet **AAA**.
 
-📖 **[Complete Color Documentation →](./tokens/colors.md)**
+📖 **[Complete Color Documentation →](tokens/colors.md)**
 
 ### Typography
 
@@ -242,7 +242,7 @@ All color combinations meet **WCAG AA** contrast requirements. Most meet **AAA**
 - **Weights:** Normal (400), Medium (500), Semibold (600), Bold (700)
 - **Base Size:** 14px (0.875rem) for optimal information density
 
-📖 **[Complete Typography Documentation →](./tokens/typography.md)**
+📖 **[Complete Typography Documentation →](tokens/typography.md)**
 
 ### Spacing
 
@@ -253,7 +253,7 @@ All color combinations meet **WCAG AA** contrast requirements. Most meet **AAA**
 - **Common Uses:** Button padding (px-4 py-2), Card padding (p-6), Section spacing (space-y-12)
 - **Responsive:** Mobile-first with breakpoint-specific values
 
-📖 **[Complete Spacing Documentation →](./tokens/spacing.md)**
+📖 **[Complete Spacing Documentation →](tokens/spacing.md)**
 
 ### Shadows & Elevation
 
@@ -264,7 +264,7 @@ All color combinations meet **WCAG AA** contrast requirements. Most meet **AAA**
 - **Border Radius:** 8 sizes (none → full/pill)
 - **Focus Rings:** 3px rings for accessibility
 
-📖 **[Complete Shadow Documentation →](./tokens/shadows.md)**
+📖 **[Complete Shadow Documentation →](tokens/shadows.md)**
 
 ### Motion & Animation
 
@@ -274,7 +274,7 @@ All color combinations meet **WCAG AA** contrast requirements. Most meet **AAA**
 - **Easing:** Ease-out (default), Ease-in (exits), Ease-in-out (continuous)
 - **Accessibility:** Automatically respects `prefers-reduced-motion`
 
-📖 **[Complete Motion Documentation →](./tokens/motion.md)**
+📖 **[Complete Motion Documentation →](tokens/motion.md)**
 
 ---
 
@@ -294,10 +294,10 @@ Each component specification includes:
 
 | Component | Variants | States | Documentation |
 |-----------|----------|--------|---------------|
-| **Buttons** | Primary, Secondary, Ghost, Destructive, Outline | 6 states | [View →](./components/buttons.md) |
-| **Inputs** | Text, Password, Search, Textarea, Select, Checkbox, Radio, Toggle | 5 states | [View →](./components/inputs.md) |
-| **Cards** | Base, Stat, User, Feature, Pricing | 4 variants | [View →](./components/cards.md) |
-| **Navigation** | Sidebar, Top Nav, Breadcrumbs, Tabs | Multiple patterns | [View →](./components/navigation.md) |
+| **Buttons** | Primary, Secondary, Ghost, Destructive, Outline | 6 states | [View →](components/buttons.md) |
+| **Inputs** | Text, Password, Search, Textarea, Select, Checkbox, Radio, Toggle | 5 states | [View →](components/inputs.md) |
+| **Cards** | Base, Stat, User, Feature, Pricing | 4 variants | [View →](components/cards.md) |
+| **Navigation** | Sidebar, Top Nav, Breadcrumbs, Tabs | Multiple patterns | [View →](components/navigation.md) |
 
 ---
 
@@ -305,7 +305,7 @@ Each component specification includes:
 
 Pre-designed, production-ready page templates:
 
-- **[Dashboard Layout →](./layouts/dashboard.md)** – Sidebar + main content with responsive behavior
+- **[Dashboard Layout →](layouts/dashboard.md)** – Sidebar + main content with responsive behavior
 - **Settings Layout** – Two-column settings interface (coming soon)
 - **Detail View** – Content with metadata sidebar (coming soon)
 
@@ -329,7 +329,7 @@ document.documentElement.classList.toggle('dark')
 darkMode: 'class'
 ```
 
-📖 **[Complete Dark Mode Guide →](./themes/dark.md)**
+📖 **[Complete Dark Mode Guide →](themes/dark.md)**
 
 ---
 
@@ -359,7 +359,7 @@ darkMode: 'class'
 - [ ] Enable reduced motion preference
 ```
 
-📖 **[Complete Accessibility Guide →](./ACCESSIBILITY.md)**
+📖 **[Complete Accessibility Guide →](ACCESSIBILITY.md)**
 
 ---
 

@@ -33,7 +33,7 @@ Dark mode should:
 | `gray-900` (#171717) | `gray-50` (#FAFAFA) | Primary text |
 | `gray-700` (#404040) | `gray-300` (#D4D4D4) | Secondary text |
 | `gray-600` (#525252) | `gray-400` (#A3A3A3) | Tertiary text |
-| `gray-500` (#737373) | `gray-500` (#737373) | Muted text |
+| `gray-500` (#737373) | `gray-400` (#A3A3A3) | Muted text |
 | `gray-400` (#A3A3A3) | `gray-600` (#525252) | Placeholder |
 
 ### Brand Colors
@@ -79,7 +79,7 @@ shadow-sm: rgba(0, 0, 0, 0.3)
   --background: #0A0A0A;
   --foreground: #FAFAFA;
   --muted: #262626;
-  --muted-foreground: #737373;
+  --muted-foreground: #A3A3A3;
   --border: #404040;
   --primary: #3B82F6;
 }
