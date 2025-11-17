@@ -47,7 +47,7 @@ The backbone of the interface. Used for text, borders, backgrounds, and surfaces
 
 **Accessibility Ratings:**
 - ✓ = WCAG AA (4.5:1+ for body text)
-- ✓✓ = WCAG AA Large (7:1+ for headings)
+- ✓✓ = WCAG AAA (7:1+ for body text)
 - ✓✓✓ = WCAG AAA (exceeds all requirements)
 
 ### Gray Scale (Dark Mode)

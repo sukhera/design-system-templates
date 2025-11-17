@@ -679,7 +679,7 @@ Spacing values are defined in `tailwind.config.js`:
 module.exports = {
   theme: {
     spacing: {
-      '0': '0',
+      '0': 0,
       '0.5': '0.125rem',  // 2px
       '1': '0.25rem',     // 4px
       '1.5': '0.375rem',  // 6px
