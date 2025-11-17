@@ -137,16 +137,17 @@ Based on 8px increments for generous breathing room:
 - Mono: `JetBrains Mono`, `Fira Code`, monospace
 
 **Type Ramp:**
-- `xs` → 14px / 20px line-height
-- `sm` → 16px / 24px
-- `base` → 18px / 28px (body default)
-- `lg` → 20px / 28px
-- `xl` → 24px / 32px
-- `2xl` → 32px / 40px
-- `3xl` → 40px / 48px
-- `4xl` → 56px / 60px
-- `5xl` → 72px / 76px
-- `6xl` → 96px / 100px (display)
+- `xs` → 12px / 16px line-height
+- `sm` → 14px / 20px
+- `base` → 16px / 24px
+- `lg` → 18px / 28px (body default)
+- `xl` → 20px / 28px
+- `2xl` → 24px / 32px
+- `3xl` → 32px / 40px
+- `4xl` → 40px / 48px
+- `5xl` → 56px / 60px
+- `6xl` → 72px / 76px
+- `7xl` → 96px / 100px (display)
 
 ### Color Philosophy
 - **Gradient-first** – Multi-dimensional color everywhere

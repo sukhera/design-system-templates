@@ -43,9 +43,9 @@ Based on an **8px** increment system.
 ### Component Spacing
 
 **Button Padding:**
-- Small: `px-4 py-2` (16px × 16px)
-- Medium: `px-6 py-3` (24px × 24px)
-- Large: `px-8 py-4` (32px × 32px)
+- Small: `px-4 py-2` (32px horizontal × 16px vertical)
+- Medium: `px-6 py-3` (48px horizontal × 24px vertical)
+- Large: `px-8 py-4` (64px horizontal × 32px vertical)
 
 **Card Padding:**
 - Compact: `p-6` (48px)
@@ -53,8 +53,8 @@ Based on an **8px** increment system.
 - Spacious: `p-12` (96px)
 
 **Input Padding:**
-- Default: `px-4 py-3` (16px × 24px)
-- Large: `px-6 py-4` (24px × 32px)
+- Default: `px-4 py-3` (32px horizontal × 24px vertical)
+- Large: `px-6 py-4` (48px horizontal × 32px vertical)
 
 ### Layout Spacing
 

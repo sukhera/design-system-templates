@@ -24,7 +24,7 @@ Border: none
 Radius: rounded-lg (12px)
 Shadow: shadow-coral
 Font: text-base font-semibold
-Padding: px-8 py-4 (32px × 32px)
+Padding: px-8 py-4 (64px horizontal × 32px vertical)
 Height: 56px (large)
 ```
 
@@ -272,7 +272,7 @@ Padding: px-8 py-4
 
 ### Small
 ```
-Padding: px-4 py-2 (16px × 16px)
+Padding: px-4 py-2 (32px horizontal × 16px vertical)
 Font: text-sm font-semibold
 Height: 40px
 Icon Size: 16px
@@ -282,7 +282,7 @@ Border Radius: rounded-md (8px)
 
 ### Medium (Default)
 ```
-Padding: px-6 py-3 (24px × 24px)
+Padding: px-6 py-3 (48px horizontal × 24px vertical)
 Font: text-base font-semibold
 Height: 48px
 Icon Size: 20px
@@ -292,7 +292,7 @@ Border Radius: rounded-lg (12px)
 
 ### Large
 ```
-Padding: px-8 py-4 (32px × 32px)
+Padding: px-8 py-4 (64px horizontal × 32px vertical)
 Font: text-base font-semibold
 Height: 56px
 Icon Size: 24px
@@ -302,7 +302,7 @@ Border Radius: rounded-lg (12px)
 
 ### Extra Large (Hero CTAs)
 ```
-Padding: px-12 py-6 (48px × 48px)
+Padding: px-12 py-6 (96px horizontal × 48px vertical)
 Font: text-lg font-bold
 Height: 72px
 Icon Size: 28px

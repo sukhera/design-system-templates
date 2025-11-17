@@ -20,7 +20,7 @@ Background: white (gray-0)
 Border: 2px solid gray-200
 Radius: rounded-lg (12px)
 Font: text-base
-Padding: px-4 py-3 (16px × 24px)
+Padding: px-4 py-3 (32px horizontal × 24px vertical)
 Height: 56px
 ```
 
