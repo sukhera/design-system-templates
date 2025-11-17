@@ -30,7 +30,7 @@ The backbone of the interface. Used for text, borders, backgrounds, and surfaces
 | `gray-400` | `#A3A3A3` | `163, 163, 163` | Placeholder text, disabled text |
 | `gray-500` | `#737373` | `115, 115, 115` | Secondary text, captions |
 | `gray-600` | `#525252` | `82, 82, 82` | Tertiary text, labels |
-| `gray-700` | `#404040` | `64, 64, 64` | Body text (dark mode) |
+| `gray-700` | `#404040` | `64, 64, 64` | Strong emphasis text |
 | `gray-800` | `#262626` | `38, 38, 38` | Headings, primary text |
 | `gray-900` | `#171717` | `23, 23, 23` | Display text, emphasis |
 | `gray-950` | `#0A0A0A` | `10, 10, 10` | Maximum contrast |

@@ -58,16 +58,16 @@ All spacing values are multiples of 4px to ensure:
 ### Buttons
 
 ```
-Padding (Small):    px-3 py-1.5     (12px × 6px)
-Padding (Medium):   px-4 py-2       (16px × 8px)
-Padding (Large):    px-6 py-3       (24px × 12px)
+Padding (Small):    px-3 py-1.5     (12px horizontal × 6px vertical)
+Padding (Medium):   px-4 py-2       (16px horizontal × 8px vertical)
+Padding (Large):    px-6 py-3       (24px horizontal × 12px vertical)
 Gap (Icon + Text):  gap-2           (8px)
 ```
 
 ### Input Fields
 
 ```
-Padding:            px-3 py-2       (12px × 8px)
+Padding:            px-3 py-2       (12px horizontal × 8px vertical)
 Height (Default):   h-10            (40px)
 Gap (Label + Input): space-y-1.5    (6px)
 ```
@@ -84,15 +84,15 @@ Gap (Card Grid):    gap-4 or gap-6  (16px or 24px)
 ### Tables
 
 ```
-Cell Padding:       px-4 py-3       (16px × 12px)
-Header Padding:     px-4 py-3       (16px × 12px)
+Cell Padding:       px-4 py-3       (16px horizontal × 12px vertical)
+Header Padding:     px-4 py-3       (16px horizontal × 12px vertical)
 Row Gap:            border spacing  (1px)
 ```
 
 ### Navigation
 
 ```
-Nav Item Padding:   px-3 py-2       (12px × 8px)
+Nav Item Padding:   px-3 py-2       (12px horizontal × 8px vertical)
 Nav Gap:            gap-1           (4px vertical)
 Section Spacing:    space-y-6       (24px between sections)
 ```
@@ -101,8 +101,8 @@ Section Spacing:    space-y-6       (24px between sections)
 
 ```
 Modal Padding:      p-6             (24px)
-Header Padding:     px-6 py-4       (24px × 16px)
-Footer Padding:     px-6 py-4       (24px × 16px)
+Header Padding:     px-6 py-4       (24px horizontal × 16px vertical)
+Footer Padding:     px-6 py-4       (24px horizontal × 16px vertical)
 Gap (Actions):      gap-3           (12px between buttons)
 ```
 
