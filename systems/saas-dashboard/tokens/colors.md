@@ -39,8 +39,8 @@ The backbone of the interface. Used for text, borders, backgrounds, and surfaces
 | `gray-300` | `#D4D4D4` | `212, 212, 212` | 1.29:1 | Border hover, inactive UI elements |
 | `gray-400` | `#A3A3A3` | `163, 163, 163` | 2.85:1 | Placeholder text, disabled text |
 | `gray-500` | `#737373` | `115, 115, 115` | 4.69:1 ✓ | Secondary text, captions, metadata |
-| `gray-600` | `#525252` | `82, 82, 82` | 8.00:1 ✓✓ | Tertiary text, form labels |
-| `gray-700` | `#404040` | `64, 64, 64` | 10.36:1 ✓✓ | Body text (dark mode only) |
+| `gray-600` | `#525252` | `82, 82, 82` | 8.00:1 ✓✓✓ | Tertiary text, form labels |
+| `gray-700` | `#404040` | `64, 64, 64` | 10.36:1 ✓✓✓ | Strong emphasis text |
 | `gray-800` | `#262626` | `38, 38, 38` | 12.63:1 ✓✓✓ | Headings, primary text, emphasis |
 | `gray-900` | `#171717` | `23, 23, 23` | 16.05:1 ✓✓✓ | Display text, maximum contrast |
 | `gray-950` | `#0A0A0A` | `10, 10, 10` | 19.56:1 ✓✓✓ | Maximum contrast, black |

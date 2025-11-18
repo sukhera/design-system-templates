@@ -130,7 +130,7 @@ npx tailwindcss init -p
 npm install @fontsource/inter
 
 # 3. Install shadcn/ui (recommended)
-npx shadcn-ui@latest init
+npx shadcn@latest init
 
 # 4. Install icons (optional)
 npm install lucide-react
@@ -261,7 +261,7 @@ All color combinations meet **WCAG AA** contrast requirements. Most meet **AAA**
 
 - **5 Elevation Levels:** xs, sm, md, lg, xl
 - **Shadow Style:** Soft, minimal (opacity 0.05-0.1 in light mode)
-- **Border Radius:** 8 sizes (none → full/pill)
+- **Border Radius:** 8 tokens (none, sm, default, md, lg, xl, 2xl, full)
 - **Focus Rings:** 3px rings for accessibility
 
 📖 **[Complete Shadow Documentation →](tokens/shadows.md)**
