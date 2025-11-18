@@ -114,7 +114,7 @@ font-size: 16px        /* text-base */
 
 ```css
 /* Default Input */
-padding: 12px 8px      /* px-3 py-2 */
+padding: 8px 12px      /* px-3 py-2 → vertical × horizontal */
 height: 40px
 label-gap: 6px         /* space-y-1.5 */
 helper-gap: 4px        /* mt-1 */
@@ -125,7 +125,7 @@ icon-margin: 12px      /* left-3 */
 
 /* Textarea */
 padding: 12px          /* p-3 */
-min-height: 80px       /* 5 lines × 16px */
+min-height: 100px      /* 5 lines × 20px line-height */
 ```
 
 **Examples:**
@@ -197,16 +197,16 @@ use-case: Card grid layouts
 
 ```css
 /* Cell Padding */
-padding: 16px 12px     /* px-4 py-3 */
-row-height: ~48px
+padding: 12px 16px     /* px-4 py-3 → vertical × horizontal */
+row-height: 48px       /* 12px top + 24px content + 12px bottom */
 
 /* Header Padding */
-padding: 16px 12px     /* px-4 py-3 */
+padding: 12px 16px     /* px-4 py-3 → vertical × horizontal */
 font-weight: medium
 
 /* Compact Table */
-padding: 12px 8px      /* px-3 py-2 */
-row-height: ~40px
+padding: 8px 12px      /* px-3 py-2 → vertical × horizontal */
+row-height: 40px       /* 8px top + 24px content + 8px bottom */
 ```
 
 **Examples:**
@@ -234,12 +234,12 @@ row-height: ~40px
 
 ```css
 /* Sidebar Navigation */
-nav-item-padding: 12px 8px     /* px-3 py-2 */
+nav-item-padding: 8px 12px     /* px-3 py-2 → vertical × horizontal */
 nav-item-gap: 4px              /* space-y-1 */
 section-spacing: 24px          /* space-y-6 between nav sections */
 
 /* Top Navigation */
-nav-item-padding: 12px 16px    /* px-4 py-3 */
+nav-item-padding: 12px 16px    /* px-4 py-3 → vertical × horizontal */
 nav-gap: 8px                   /* gap-2 horizontal */
 
 /* Breadcrumbs */
@@ -277,14 +277,14 @@ separator-margin: 8px          /* mx-2 */
 padding: 24px          /* p-6 */
 
 /* Modal Header */
-padding: 24px 16px     /* px-6 py-4 */
+padding: 16px 24px     /* px-6 py-4 → vertical × horizontal */
 border-bottom: 1px
 
 /* Modal Content */
 padding: 24px          /* p-6 */
 
 /* Modal Footer */
-padding: 24px 16px     /* px-6 py-4 */
+padding: 16px 24px     /* px-6 py-4 → vertical × horizontal */
 button-gap: 12px       /* gap-3 */
 border-top: 1px
 ```
